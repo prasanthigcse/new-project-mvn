@@ -1,0 +1,8 @@
+lappy\GlassFishServletServer.class
+lappy\Bootstrap.class
+lappy\JettyServletServer.class
+lappy\MinimalErrorReportValve.class
+lappy\MinimalContextConfig.class
+lappy\MinimalLifecycleListener.class
+lappy\ServletServer.class
+lappy\TomcatServletServer.class
